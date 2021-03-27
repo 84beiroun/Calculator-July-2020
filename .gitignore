@@ -1,0 +1,10 @@
+# Ignore temp files
+Calculator/.vs/
+
+# Ignore files which update every compilation
+Calculator/Calculator/bin/Debug/
+Calculator/Calculator/bin/Release/
+Calculator/Calculator/obj/Debug/
+Calculator/Calculator/obj/Release/
+Calculator/Calculator.Tests/obj/Debug
+Calculator/Calculator.Tests/bin/Debug
